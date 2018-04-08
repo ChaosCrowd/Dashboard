@@ -10,3 +10,4 @@
 
 ### 团队组建与会议记录
 * [团队组建](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/2_Team_Profile.md)
+* [第一次小组会议记录](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/Meeting_recording/meeting_recording_1.md)
