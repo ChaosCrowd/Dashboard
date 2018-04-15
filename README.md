@@ -5,7 +5,8 @@
 * [项目前期调研](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/3_Investigation.md)
 * [项目愿景](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/4_Vision.md)
 * [产品特性](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/5_Backlog_Inception.md)
-* [代码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/8_Production_Specifications.md)
+* [代码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/8_Production_Specifications.md)
+
 ### 技术文档
 
 ### 团队组建与会议记录
