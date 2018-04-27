@@ -13,6 +13,7 @@
 
 ### 设计文档
 * [UI设计](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/7_Design.md)
+* [数据库设计](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/10_Database_Design.md)
 
 ### 团队组建与会议记录
 * [团队组建](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/2_Team_Profile.md)
