@@ -11,6 +11,7 @@
 
 ### 技术文档
 * [代码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/8_Production_Specifications.md)
+* [REST API](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/13_REST_API.md)
 
 ### 设计文档
 * [UI设计](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/7_Design.md)
