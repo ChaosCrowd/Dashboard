@@ -24,6 +24,6 @@
 * [第二次小组会议记录](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/Meeting_recording/meeting_recording_2.md)
  
 ### 建模练习
-* [有鱼记账APP]https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/XX1-%E6%9C%89%E9%B1%BC%E8%AE%B0%E8%B4%A6APP%E4%B8%9A%E5%8A%A1%E6%8F%8F%E8%BF%B0.pdf
-* [建模要求]
-* [建模者答案与评价]
+* [有鱼记账APP](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/XX1-%E6%9C%89%E9%B1%BC%E8%AE%B0%E8%B4%A6APP%E4%B8%9A%E5%8A%A1%E6%8F%8F%E8%BF%B0.pdf)
+* [建模要求](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/xx2_modeling_requirements)
+* [建模者答案与评价](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/xx3_modeling_answers_and_comments)
