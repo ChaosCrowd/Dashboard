@@ -36,7 +36,7 @@ id|dishID集合|int array
 
 样例：
 
-    /dishes/info?dishID=1  获取ID=1的菜品的信息
+    /dishes/info?dishID=2  获取ID=2的菜品的信息
     
 返回对象：
 
