@@ -22,13 +22,13 @@ code | HTTP Status | 解释
 属性|解释|类型
 -|-|-
 count|菜式总数|int
-id|dishID集合|int array
+dishID|菜品的ID的集合|int array
 
 样例：
 
     {
         "count": 3,
-        "id": [1,2,3]
+        "dishID": [1,2,3]
     }
 
 ## 获取菜品信息
@@ -42,7 +42,7 @@ id|dishID集合|int array
 
 属性|解释|类型
 -|-|-
-id|菜品ID|int
+dishID|菜品ID|int
 name|菜名|string
 price|菜品单价|float
 picture|菜品缩略图|string
@@ -51,11 +51,26 @@ volume|菜品每月销量|int
 样例：
 
     {
-        "id": 2,
+        "dishID": 2,
         "name": "皮蛋瘦肉粥",
         "price": 5.5,
         "picture": "http://somesite.somedirectory/mypics.png",
         "volume": 121
     }
     
+## 提交订单
+    POST /dishes/order
     
+请求参数：
+
+属性|解释|类型
+-|-|-
+tableID|进行点餐的餐桌号|int
+dishID|已点的菜品ID的集合|int array
+num|已点的每道菜的份数|int array
+
+返回对象：
+
+属性|解释|类型
+-|-|-
+tableID|成功点餐的餐桌号|int
