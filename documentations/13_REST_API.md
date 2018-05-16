@@ -1,4 +1,5 @@
 https://segmentfault.com/a/1190000009476912?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly
+http://www.ruanyifeng.com/blog/2014/05/restful_api.html
 
 ## 1. URI
 
