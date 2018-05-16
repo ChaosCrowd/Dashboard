@@ -1,7 +1,61 @@
+# 点餐系统API（第一版）
 ## 返回状态说明
+一个请求是否成功是由 HTTP 状态码标明的。一个 2XX 的状态码表示成功，而一个 4XX 表示请求失败。当一个请求失败时响应的主体仍然是一个 JSON 对象，里面包含 code 和 info 这两个字段，分别表示自定义的错误码以及错误信息，便于调试。
+
+比如，请求失败时，一个可能的响应主体如下：
+
+    {
+        "code": 0,
+        "info": "fail"
+    }
 
 ### 错误码
+code | HTTP Status | 解释
+-|-|-
 
-## XX对象
 
-### XX服务
+## 获取菜式列表
+    GET /dishes/list
+    
+返回对象:
+
+属性|解释|类型
+-|-|-
+count|菜式总数|int
+id|dishID集合|int array
+
+样例：
+
+    {
+        "count": 3,
+        "id": [1,2,3]
+    }
+
+## 获取菜品信息
+    GET /dishes/info?dishID
+
+样例：
+
+    /dishes/info?dishID=1  获取ID=1的菜品的信息
+    
+返回对象：
+
+属性|解释|类型
+-|-|-
+id|菜品ID|int
+name|菜名|string
+price|菜品单价|float
+picture|菜品缩略图|string
+volume|菜品每月销量|int
+
+样例：
+
+    {
+        "id": 2,
+        "name": "皮蛋瘦肉粥",
+        "price": 5.5,
+        "picture": "http://somesite.somedirectory/mypics.png",
+        "volume": 121
+    }
+    
+    
