@@ -74,3 +74,57 @@ num|已点的每道菜的份数|int array
 属性|解释|类型
 -|-|-
 tableID|成功点餐的餐桌号|int
+
+## 商家注册
+    POST /management/signup
+    
+请求参数：
+
+属性|解释|类型
+-|-|-
+name|用户名|string
+password|密码|string
+
+返回对象：
+
+属性|解释|类型
+-|-|-
+name|成功注册的用户名|string
+
+样例：
+
+    {
+        name: "vinsm"
+    }
+
+## 商家登录
+    POST /management/login
+    
+请求参数：
+
+属性|解释|类型
+-|-|-
+name|用户名|string
+password|密码|string
+
+返回对象：
+
+属性|解释|类型
+-|-|-
+name|成功登录的用户名|string
+
+## 商家登出
+    POST /management/logout
+    
+请求参数：
+
+属性|解释|类型
+-|-|-
+name|用户名|string
+
+返回对象：
+
+属性|解释|类型
+-|-|-
+name|成功登出的用户名|string
+
