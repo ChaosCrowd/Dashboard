@@ -1,8 +1,8 @@
 # 需求规格说明
 ## 用例图
-![UC1](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/Img/UC1.png)
-![UC2](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/Img/UC2.png)
-![UC3](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/Img/UC3.png)
+![UC1](Img/UC1.png)
+![UC2](Img/UC2.png)
+![UC3](Img/UC3.png)
 
 ## Brief用例文本
 * 扫码：顾客入座，用手机扫描二维码，浏览器加载点餐页面。
