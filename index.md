@@ -24,6 +24,7 @@ https://chaoscrowd.github.io/Dashboard/
 
 ## 7、Design（设计） 
 * [UI设计](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/7_Design.md)
+  * .[顾客端](documentations/UI_prototype/customer/index.html)
 * [数据库设计](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/10_Database_Design.md)
 * [API设计](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/12_API_design.md)
 
