@@ -35,6 +35,7 @@ https://chaoscrowd.github.io/Dashboard/
 ## X1 Meeting_recording 
 * [第一次小组会议记录](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/Meeting_recording/meeting_recording_1.md)
 * [第二次小组会议记录](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/Meeting_recording/meeting_recording_2.md)
+* [第三次小组会议记录](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/Meeting_recording/meeting_recording_3.md)
 
 ## X2 Tech/Work Report 
 
