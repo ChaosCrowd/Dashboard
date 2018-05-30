@@ -19,7 +19,7 @@
 * [领域模型](documentations/9_domain_model.md)
 * [状态模型](documentations/11_State_model.md)
 * [功能模型](documentations/14_SystemSequenceDiagram.md)
-* [补充需求](documentations/16_Supplementary_Requirements.md)
+* [补充需求](documentations/15_Supplementary_Requirements.md)
 
 ## 7、Design（设计） 
 * [UI设计](documentations/7_Design.md)
