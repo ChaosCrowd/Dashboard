@@ -27,7 +27,8 @@ https://chaoscrowd.github.io/Dashboard/
 * [API设计](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/12_API_design.md)
 
 ## 8、生产规范与指南 
-* [代码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/8_Production_Specifications.md)
+* [java项目开发代码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/8_Production_Specifications.md)
+* [Vue.js 组件编码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/15_Production_Specifications_Vuejs-component.md)
 * [REST API设计规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/13_REST_API.md)
 
 ## X1 Meeting_recording 
