@@ -29,7 +29,7 @@ https://chaoscrowd.github.io/Dashboard/
 
 ## 8、生产规范与指南 
 * [java项目开发代码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/8_Production_Specifications.md)
-* [Vue.js 组件编码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/15_Production_Specifications_Vuejs-component.md)
+* [Vue.js 组件编码规范](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md)
 * [REST API设计规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/13_REST_API.md)
 
 ## X1 Meeting_recording 
