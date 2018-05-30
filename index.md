@@ -1,7 +1,7 @@
 # 目录
 https://chaoscrowd.github.io/Dashboard/
 ## 1、About（项目规划）
-* [项目规划与迭代记录](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/1_About.md)
+* [项目规划与迭代记录](documentations/1_About.md)
 
 ## 2、Team profile（团队组建）
 * [团队组建](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/2_Team_Profile.md)
