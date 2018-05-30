@@ -3,4 +3,4 @@
 
 成员：全体成员
 
-![img](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/Meeting_recording/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%B0%8F%E7%BB%84%E4%BC%9A%E8%AE%AE.jpg)
+![img](%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%B0%8F%E7%BB%84%E4%BC%9A%E8%AE%AE.jpg)
