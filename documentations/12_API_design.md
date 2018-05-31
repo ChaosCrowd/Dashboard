@@ -12,7 +12,7 @@
 ### 错误码
 以下为错误码及其相关解释：
 
-code | HTTP Status | 解释
+code|HTTP Status|解释
 -|-|-
 -|-|-
 
