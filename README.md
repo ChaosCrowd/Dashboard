@@ -26,6 +26,7 @@ https://chaoscrowd.github.io/Dashboard/
 * [UI设计](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/7_Design.md)
 * [数据库设计](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/10_Database_Design.md)
 * [API设计](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/12_API_design.md)
+* [软件架构设计](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/16_Software_architecture_document.md)
 
 ## 8、生产规范与指南 
 * [java项目开发代码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/8_Production_Specifications.md)
