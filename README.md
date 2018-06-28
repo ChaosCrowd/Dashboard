@@ -17,6 +17,7 @@ https://chaoscrowd.github.io/Dashboard/
 
 ## 6、Requirement specification（需求规格说明） 
 * [用例图](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/6_Requirement_Specification.md)
+* [用例+活动图](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/17_Use_Cases.md)
 * [领域模型](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/9_domain_model.md)
 * [状态模型](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/11_State_model.md)
 * [功能模型](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/14_SystemSequenceDiagram.md)
