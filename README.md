@@ -44,6 +44,8 @@ https://chaoscrowd.github.io/Dashboard/
 
 ## X2 Tech/Work Report 
 
+## X3 Final Report
+
 ## XX 建模练习
 * [有鱼记账APP](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/XX1-%E6%9C%89%E9%B1%BC%E8%AE%B0%E8%B4%A6APP%E4%B8%9A%E5%8A%A1%E6%8F%8F%E8%BF%B0.pdf)
 * [建模要求](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/xx2_modeling_requirements.md)
