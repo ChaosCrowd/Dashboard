@@ -28,9 +28,10 @@ PSP2.1 | Personal Software Process Stages | Time (%)
 # 个人分支的 GIT 统计报告
 用户名：Vinsm-L
 ## Dashboard仓库
-![](Img/Dashboard statistics.PNG)
+![](Img/Dashboard_statistics.PNG)
+
 ## code仓库
-![](Img/code statistics.PNG)
+![](Img/code_statistics.PNG)
 
 # 工作清单
 后端开发：实现Controller类、Service实现类、编写测试、编写文档。
