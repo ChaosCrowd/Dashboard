@@ -46,6 +46,7 @@ https://chaoscrowd.github.io/Dashboard/
 
 ## X3 Final Report
 * [LXZ](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/21_Final_Report_LXZ.md)
+* [NYX](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/22_Final_Report_NYX.md)
 
 ## XX 建模练习
 * [有鱼记账APP](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/XX1-%E6%9C%89%E9%B1%BC%E8%AE%B0%E8%B4%A6APP%E4%B8%9A%E5%8A%A1%E6%8F%8F%E8%BF%B0.pdf)
