@@ -15,11 +15,11 @@ PSP2.1 | Personal Software Process Stages | Time (%)
 ·         Design Review|·         设计复审 (和同事审核设计文档)|8
 ·         Coding Standard|·         代码规范 (为目前的开发制定合适的规范)|6
 ·         Design|·         具体设计|10
-·         Coding|·         具体编码|12
+·         Coding|·         具体编码|14
 ·         Code Review|·         代码复审|8
 ·         Test|·         测试（自我测试，修改代码，提交修改）|10
 **Reporting**|**报告**|23
-·         Test Report|·         测试报告|8
+·         Test Report|·         测试报告|6
 ·         Size Measurement|·         计算工作量|7
 ·         Postmortem & Process Improvement Plan|·         事后总结, 并提出过程改进计划|8
 ## 3.个人分支的GIT统计
