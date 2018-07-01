@@ -35,7 +35,7 @@ https://chaoscrowd.github.io/Dashboard/
 * [Vue.js 组件编码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/15_Production_Specifications_Vuejs-component.md)
 * [REST API设计规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/13_REST_API.md)
 * [逻辑架构到应用程序映射指南](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/19_logic_mapping.md)
-* [物理架构云上部署 dock-compose.yml 文件编写与使用](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/20_dock-compose.md)
+* [物理架构云上部署 dock-compose.yml 文件编写与使用](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/20_%20dock-compose.md)
 
 ## X1 Meeting_recording 
 * [第一次小组会议记录](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/Meeting_recording/meeting_recording_1.md)
