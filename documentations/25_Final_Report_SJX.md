@@ -18,6 +18,10 @@ tags: 博客
 
 ### 二、PSP2.1统计表  
 
+
+
+### 三、GIT统计报告  
+
 #### 商家端  
 
 <img src="https://raw.githubusercontent.com/ChaosCrowd/Dashboard/master/documentations/Img/Image_SJX/git.png" width="100%" height="100%" />  
@@ -27,10 +31,6 @@ tags: 博客
 #### 文档  
 
 <img src="https://raw.githubusercontent.com/ChaosCrowd/Dashboard/master/documentations/Img/Image_SJX/git3.png" width="100%" height="100%" />
-
-### 三、GIT统计报告  
-
-<img src="http://chuantu.biz/t6/336/1530343646x-1376440084.png" width="100%" height="100%" />
 
 ### 四、工作清单  
   
