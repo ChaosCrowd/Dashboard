@@ -29,16 +29,23 @@ PSP2.1 | Personal Software Process Stages | Time (%)
 ## Git统计报告
 
 ### **项目**
+![](Img/gitCommit.png)
 
 ### **文档**
+![](Img/gitCommit2.png)
 
 ## 工作清单
 
-·	Web后台框架搭建
+· Web后台框架搭建
+
 ·	项目结构设计
+
 ·	持久化层定义与实现
+
 ·	权限管理模块定义与实现
+
 ·	mysql与Tomcat服务部署
+
 
 ## 博客清单
 
