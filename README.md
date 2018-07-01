@@ -49,6 +49,7 @@ https://chaoscrowd.github.io/Dashboard/
 * [NYX](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/22_Final_Report_NYX.md)
 * [QXF](https://blog.csdn.net/HOMERUNIT/article/details/80871499)
 * [YJF](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/23_Final_Report_YJF.md)
+* [OBC](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/24_Final_Report_OBC.md)
 
 ## XX 建模练习
 * [有鱼记账APP](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/XX1-%E6%9C%89%E9%B1%BC%E8%AE%B0%E8%B4%A6APP%E4%B8%9A%E5%8A%A1%E6%8F%8F%E8%BF%B0.pdf)
