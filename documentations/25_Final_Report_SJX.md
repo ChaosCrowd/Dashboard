@@ -1,13 +1,4 @@
----
-layout: post
-title: Homework 9
-date: 2018-6-30 11:41:00+00:00
-categories: 日志
-tags: 博客
----
-
-# 第九次作业
-
+## Final Report
 ------
 ### 学号15331269
 ### 一、课程学习自我总结  
