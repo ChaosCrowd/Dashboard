@@ -11,11 +11,13 @@
 ![](Img/FinalReport_nyx/FinalReport_nyx1.png)
 
 在前端中顾客端部分的pullrequest记录
+
 ![](Img/FinalReport_nyx/FinalReport_nyx2.png)
 
 ![](Img/FinalReport_nyx/FinalReport_nyx3.png)
 
 商家端部分的pullrequest记录
+
 ![](Img/FinalReport_nyx/FinalReport_nyx4.png)
 
 # 工作清单
