@@ -8,10 +8,10 @@
 
 PSP2.1 | Personal Software Process Stages | Time (%)
 -|-|-
-**Planning** | **计划** |7
-·         Estimate|·         估计这个任务需要多少时间|7
-**Development**|**开发**|70
-·         Analysis|·         需求分析 (包括学习新技术)|10
+**Planning** | **计划** |5
+·         Estimate|·         估计这个任务需要多少时间|5
+**Development**|**开发**|72
+·         Analysis|·         需求分析 (包括学习新技术)|12
 ·         Design Spec|·         生成设计文档|6
 ·         Design Review|·         设计复审 (和同事审核设计文档)|8
 ·         Coding Standard|·         代码规范 (为目前的开发制定合适的规范)|6
@@ -23,6 +23,7 @@ PSP2.1 | Personal Software Process Stages | Time (%)
 ·         Test Report|·         测试报告|6
 ·         Size Measurement|·         计算工作量|7
 ·         Postmortem & Process Improvement Plan|·         事后总结, 并提出过程改进计划|8
+
 ## 3.个人分支的GIT统计
 #### 用户名eatWellY
 ##### 顾客端CustomerWebProject
