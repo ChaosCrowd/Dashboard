@@ -34,8 +34,8 @@ https://chaoscrowd.github.io/Dashboard/
 * [java项目开发代码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/8_Production_Specifications.md)
 * [Vue.js 组件编码规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/15_Production_Specifications_Vuejs-component.md)
 * [REST API设计规范](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/13_REST_API.md)
-* [逻辑架构到应用程序映射指南](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/19_%E9%80%BB%E8%BE%91%E6%9E%B6%E6%9E%84%E5%88%B0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%98%A0%E5%B0%84%E6%8C%87%E5%8D%97.md)
-* [物理架构云上部署 dock-compose.yml 文件编写与使用](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/20_%E7%89%A9%E7%90%86%E6%9E%B6%E6%9E%84%E4%BA%91%E4%B8%8A%E9%83%A8%E7%BD%B2%20dock-compose.yml%20%E6%96%87%E4%BB%B6%E7%BC%96%E5%86%99%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
+* [逻辑架构到应用程序映射指南](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/19_logic_mapping.md)
+* [物理架构云上部署 dock-compose.yml 文件编写与使用](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/20_dock-compose.md)
 
 ## X1 Meeting_recording 
 * [第一次小组会议记录](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/Meeting_recording/meeting_recording_1.md)
