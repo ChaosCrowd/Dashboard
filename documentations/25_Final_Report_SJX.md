@@ -17,8 +17,8 @@ tags: 博客
 感谢google，stackoverflow，github，baidu，csdn，简书，知乎以及各种官网
 
 ### 二、PSP2.1统计表  
-
-
+  
+<img src="https://raw.githubusercontent.com/ChaosCrowd/Dashboard/master/documentations/Img/Image_SJX/psp.png" width="100%" height="100%" />  
 
 ### 三、GIT统计报告  
 
