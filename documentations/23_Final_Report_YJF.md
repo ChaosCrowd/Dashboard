@@ -33,7 +33,7 @@ PSP2.1 | Personal Software Process Stages | Time (%)
 ![Dashboard][2]
 ## 4.自认为最得意的工作清单
  染指了顾客端的每个文件，嘿嘿嘿O(∩_∩)O~~
-## 5.个人技术类博客(更新中)
+## 5.个人技术类博客
 
  - [vue-cli构建Vue应用的学习总结][3]
  - [Vuex的基本用法][4]
