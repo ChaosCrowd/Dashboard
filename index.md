@@ -6,7 +6,7 @@
 ## 2、视频
 * [商家端](https://v.youku.com/v_show/id_XMzcwMjM5ODQ0NA==.html?spm=a2h3j.8428770.3416059.1)
 * [顾客端](https://v.youku.com/v_show/id_XMzcwMTQ2NjgxMg==.html?spm=a2hzp.8244740.0.0)
-* [websocket订单推送](https://v.youku.com/v_show/id_XMzcwMTQ2OTgxMg==.html?spm=a2hzp.8244740.0.0)
+* [websocket订单推送](https://v.youku.com/v_show/id_XMzcwMjQ0NzkxNg==.html?spm=a2h3j.8428770.3416059.1)
 
 
 ## 1、About（项目规划）
