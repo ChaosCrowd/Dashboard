@@ -1,5 +1,13 @@
 # 目录
 https://chaoscrowd.github.io/Dashboard/
+
+# 成果展
+## 1、效果图
+* [效果图](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/%E6%88%90%E6%9E%9C%E5%B1%95.md)
+## 2、视频
+* [商家端]()
+* [顾客端](https://v.youku.com/v_show/id_XMzcwMTQ2NjgxMg==.html?spm=a2hzp.8244740.0.0)
+* [websocket订单推送](https://v.youku.com/v_show/id_XMzcwMTQ2OTgxMg==.html?spm=a2hzp.8244740.0.0)
 ## 1、About（项目规划）
 * [项目规划与迭代记录](https://github.com/ChaosCrowd/Dashboard/blob/master/documentations/1_About.md)
 
